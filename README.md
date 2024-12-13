@@ -67,16 +67,20 @@ Create a `.env` file in the root directory:
 ```env
 DISCORD_TOKEN=your_discord_bot_token
 OPENAI_API_KEY=your_openai_api_key
-
+```
 
 ### 4. Start the Application
-```bash
-# Start the Next.js development server
-npm run dev
 
-# In a separate terminal, start the bot
+#### Start the Next.js development server
+```bash
+npm run dev
+```
+
+#### In a separate terminal, start the bot
+```bash
 node bot/bot.js
 ```
+
 Open your browser and navigate to http://localhost:3000
 
 ## Screenshots
