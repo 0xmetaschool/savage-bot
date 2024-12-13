@@ -110,7 +110,7 @@ We love contributions! Here's how you can help make the project even better:
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/CustomerSupportGPT/blob/main/LICENSE) file for details.
 
 ## Contact
-If you can handle more roasting, open an issue in the GitHub repository.
+Please open an issue in the GitHub repository for any queries or support.
 
 ## Credits
 - OpenAI for providing the GPT-4 API
