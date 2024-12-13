@@ -25,17 +25,20 @@ SavageBot is the most brutally honest AI-powered Discord bot that delivers savag
 
 ### 1. Clone and Setup
 
-# Clone the repository
+#### Clone the repository
 ```bash
 git clone https://github.com/0xmetaschool/savage-bot
 ```
 
-# Navigate to project directory
+#### Navigate to project directory
+```bash
 cd dicord-bot
+```
 
-# Install dependencies
+#### Install dependencies
+```bash
 npm install
-
+```
 
 ### 2. Discord Bot Setup
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
