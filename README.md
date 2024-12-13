@@ -2,13 +2,15 @@
 
 SavageBot is the most brutally honest AI-powered Discord bot that delivers savage, witty, and hilariously brutal responses. It's designed to roast users with creative comebacks while keeping it entertaining. 
 
-## Live Demo
+Built with Next.js and powered by AI technology, this open-source project helps developers create funny discord bot.
 
+## Live Demo
+[https://savage-bot-metaschool.vercel.app/](https://savage-bot-metaschool.vercel.app/)
 
 ## Features
-* Brutally honest and savage short one sentence responses 
+* Brutally honest and savage short one-sentence responses 
 * Sleek black and white landing page with smooth animations
-* Easy set up and integration to discord
+* Easy set-up and integration to discord
 
 ## Technologies Used
 * Next.js 14 for the landing page
@@ -23,24 +25,24 @@ SavageBot is the most brutally honest AI-powered Discord bot that delivers savag
 
 ## Installation Steps
 
-### 1. Clone and Setup
+#### 1. Clone and Setup
 
-#### Clone the repository
+**Clone the repository**
 ```bash
 git clone https://github.com/0xmetaschool/savage-bot
 ```
 
-#### Navigate to project directory
+**Navigate to the project directory**
 ```bash
 cd dicord-bot
 ```
 
-#### Install dependencies
+**Install dependencies**
 ```bash
 npm install
 ```
 
-### 2. Discord Bot Setup
+#### 2. Discord Bot Setup
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
 2. Click "New Application" and name it
 3. Go to "Bot" section
@@ -62,21 +64,21 @@ npm install
      * Read Message History
    - Copy the generated URL to invite bot to servers
 
-### 3. Environment Setup
+#### 3. Environment Setup
 Create a `.env` file in the root directory:
 ```env
 DISCORD_TOKEN=your_discord_bot_token
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-### 4. Start the Application
+#### 4. Start the Application
 
-#### Start the Next.js development server
+**Start the Next.js development server**
 ```bash
 npm run dev
 ```
 
-#### In a separate terminal, start the bot
+**In a separate terminal, start the bot**
 ```bash
 node bot/bot.js
 ```
@@ -97,7 +99,7 @@ Open your browser and navigate to http://localhost:3000
 </div>
 
 
-## How to Use
+## How to use the application
 1. Add the bot to your server using the generated OAuth2 URL
 2. The URL format will be:
 ```
@@ -122,7 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 Please open an issue in the GitHub repository for any queries or support.
-
-## Credits
-- OpenAI for providing the GPT-4 API
-- Discord.js team for the amazing library
