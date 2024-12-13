@@ -87,15 +87,15 @@ Open your browser and navigate to http://localhost:3000
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(128).png?raw=true" alt="Savage Bot Template Add screenshot" style="width: 49%; border: 2px solid black;" />
-  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(129).png?raw=true" alt="Savage Bot Template Add screenshot" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(128).png?raw=true" alt="Savage Bot Template main page" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(129).png?raw=true" alt="Savage Bot Template features page" style="width: 49%; border: 2px solid black;" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(130).png?raw=true" alt="Savage Bot Template Add screenshot" style="width: 49%; border: 2px solid black;" />
-  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(131).png?raw=true" alt="Savage Bot Template Add screenshot" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(130).png?raw=true" alt="Savage Bot Template CTA page" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(131).png?raw=true" alt="Savage Bot Template discord responses first page" style="width: 49%; border: 2px solid black;" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(132).png?raw=true" alt="Savage Bot Template Add screenshot" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/savage-bot/blob/main/public/Screenshot%20(132).png?raw=true" alt="Savage Bot Template discord responses second page" style="width: 49%; border: 2px solid black;" />
 </div>
 
 
@@ -120,7 +120,7 @@ We love contributions! Here's how you can help make the project even better:
 - Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/CustomerSupportGPT/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/savage-bot/blob/main/LICENSE) file for details.
 
 ## Contact
 Please open an issue in the GitHub repository for any queries or support.
