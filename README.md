@@ -100,14 +100,14 @@ https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=199744
 ## Contributing
 We love contributions! Here's how you can help make the project even better:
 
-Fork the project (gh repo fork https://github.com/0xmetaschool/savage-bot.git)
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Fork the project (gh repo fork https://github.com/0xmetaschool/savage-bot.git)
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/CustomerSupportGPT/blob/main/LICENSE) file for details.
 
 ## Contact
 If you can handle more roasting, open an issue in the GitHub repository.
