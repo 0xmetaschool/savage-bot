@@ -10,10 +10,12 @@ export default function LandingPage() {
     setIsVisible(true);
   }, []);
 
-  const scrollToSection = (id) => {
-    const section = document.getElementById(id);
+  const scrollToSection = (id: string) => {
+  const section = document.getElementById(id);
+  if (section) {
     section.scrollIntoView({ behavior: 'smooth' });
-  };
+  }
+};
 
   return (
     <div className="snap-y snap-mandatory h-screen overflow-y-scroll">
