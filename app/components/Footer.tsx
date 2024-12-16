@@ -9,7 +9,7 @@ const Footer = () => {
   useEffect(() => {
     const fetchStarCount = async () => {
       try {
-        const response = await fetch('https://api.github.com/repos/0xmetaschool/FlashCardGPT');
+        const response = await fetch('https://api.github.com/repos/0xmetaschool/savage-bot');
         const data = await response.json();
         setStarCount(data.stargazers_count);
       } catch (error) {
@@ -30,11 +30,11 @@ const Footer = () => {
               Free open source AI template
             </div>
             <div className="text-white mb-4 text-2xl font-bold font-sans">
-              Build your own Trivia Quiz GPT
+              Build your own AI Discord Savage Bot
             </div>
             <div className="flex items-center gap-4">
               <Link
-                href="https://github.com/0xmetaschool/FlashCardGPT/fork"
+                href="https://github.com/0xmetaschool/savage-bot/fork"
                 className="bg-gradient-to-r from-gray-100 to-white text-black px-4 py-2 rounded-md hover:from-gray-200 hover:to-gray-100 transition-all duration-200 text-xs"
               >
                 Fork and Build Your Own
